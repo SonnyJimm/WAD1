@@ -1,0 +1,15 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-toggle {
+  height: 1.7rem;
+  background-color: inherit;
+  border-radius: 0.3rem;
+  color: white;
+}

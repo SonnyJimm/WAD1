@@ -1,0 +1,23 @@
+.create-student-form{
+    margin: 2rem;
+}
+.create-student-form label{
+    font-size: 1.3rem;
+    justify-self: center;
+}
+.create-student-form input{
+    background-color: inherit;
+    border-radius: 0.7rem;
+    height: 1.7rem;
+    margin: 0 1rem 0 1rem;
+    padding: 0 0 0 0.5rem;
+    color: white;
+}
+
+.create-student-form button{
+    height: 1.7rem;
+    background-color: inherit;
+    border-radius: 0.3rem;
+    color: white;
+}
+
